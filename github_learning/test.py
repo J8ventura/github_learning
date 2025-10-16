@@ -8,6 +8,7 @@
 
 #STEP 3:STAGE--git add . ("." stages all in current folder. "filename" for specific files)
 #chooses which files you want for the save point
+#--git reset (undoes stage)
 
 #STEP 4:CONFIRM--git status
 #verify it worked
