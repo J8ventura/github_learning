@@ -21,6 +21,7 @@
 #connects your local repo to repo in github 
 
 #STEP 7:PUSH--git push *(if 1st time: git push -u origin master)
+#--master or main? check using --branch
 #uploads commit to github
 
 #STEP 8:PULL--git pull
